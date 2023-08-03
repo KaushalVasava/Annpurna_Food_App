@@ -7,6 +7,8 @@ It is a food store and delivery app using Koltin, Navigation Components, Paging3
 - XMl views for UI design
 - ViewBinding, DataBinding
 - Retrofit for Rest API
+- Glide for Dynamic image loading
+- Custom tabs for view web content in the app
 - Firebase used for Database, Authentication, Push Notifications, Remote config, Storage, Crash-analytics
 - Paging for Dynamic load data as per user needs
 - Language configuration
