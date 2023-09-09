@@ -4,13 +4,13 @@ It is a food store and delivery app using Koltin, Navigation Components, Paging3
 
 # Technologies Used:
 - Kotlin for programming
-- XMl views for UI design
+- XML views for UI design
 - ViewBinding, DataBinding
 - Retrofit for Rest API
 - Glide for Dynamic image loading
 - Custom tabs for view web content in the app
 - Firebase used for Database, Authentication, Push Notifications, Remote config, Storage, Crash-analytics
-- Paging for Dynamic load data as per user needs
+- Paging3 for Dynamic load data as per user needs
 - Language configuration
 - MVVM architecture
 - Coroutines, Flow, StateFlow, Live Data
@@ -27,7 +27,7 @@ It is a food store and delivery app using Koltin, Navigation Components, Paging3
 - Today's menu section
 - Order history and order status
 - User Profile
-- Norification of your orders
+- Notification of your orders
 - Select foods based on review/rating
 - Order's Bill in your app
 - Seamless User friendly experience
